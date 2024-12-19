@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "keywords": [
+    "Portfolio"
+  ],
+  "license": "ISC",
+  "author": "Anacleto A. Pederneira",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16",
+    "path": "^0.12.7"
+  }
+}
